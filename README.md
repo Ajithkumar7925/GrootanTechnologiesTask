@@ -28,7 +28,7 @@ json-server --watch db.json
 Initially Install Node.js for your [windows](https://nodejs.org/dist/v14.17.0/node-v14.17.0-x64.msi) or [mac](https://nodejs.org/dist/v14.17.0/node-v14.17.0.pkg) from the official node.js site 
 
 ###### Step 2:
-Install JSON-Server using Command Prompt using commands given above
+Install JSON-Server in your system command prompt using commands given above
 
 ###### Step 3:
 Start your JSON-Server using command
@@ -44,6 +44,9 @@ Create a UI for dummy login and registration and for fetching API data's using J
 
 ###### Step 7:
 Display the users data and give two buttons for displaying previous and next users data.
+
+## Files and Resources
+- [Click Here](https://github.com/Ajithkumar7925/GrootanTechnologiesTask)
 
 ## License
 [Ajith Kumar P](https://github.com/Ajithkumar7925)
