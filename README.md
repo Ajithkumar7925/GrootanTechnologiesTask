@@ -15,9 +15,11 @@ in the list.
 
 ## Installation
 
-- [JSON-Server](https://github.com/typicode/json-server) is a Node Module that you can use to create demo rest json webservice in less than a minute.
+- [JSON-Server](https://github.com/typicode/json-server) 
 - [Node.js](https://nodejs.org/)
-- [Beeceptor](https://beeceptor.com/) is an HTTP proxy, made for the rest APIs. It intercepts HTTP requests for you to mock in real-time.
+- [WampServer](https://sourceforge.net/projects/wampserver/)
+- [NetBeans](https://netbeans.apache.org/download/nb122/nb122.html)
+
 
 
 To install JSON using Command Prompt
@@ -48,16 +50,24 @@ Start your JSON-Server using command
 Write your data that you want to display in UI in the appropriate API format and check the data in localhost:3000
 
 ###### Step 5:
-Then, copy the API data's written in .json file and create an Endpoint in Beeceptor and paste the data's and get your Beeceptor API url.
-
-###### Step 6:
 Create a UI for dummy login and registration and for fetching API data's using JavaScript.
 
+###### Step 6:
+Display the users data and give two buttons for displaying previous and next users data. 
+
 ###### Step 7:
-Display the users data and give two buttons for displaying previous and next users data.
+while clicking on a particular record, it should be able to see more details of that user. 
+
+###### Step 8:
+Deploy the created website in any hosting service 
+
+## Website Link 
+- [GrootanTask](https://grootantask.000webhostapp.com/)
+
+- Hosted the Website in [000Webhost](https://in.000webhost.com/) 
 
 ## Files and Resources
-- [Click Here](https://github.com/Ajithkumar7925/GrootanTechnologiesTask)
+- [Repository](https://github.com/Ajithkumar7925/GrootanTechnologiesTask)
 
 ## License
 [Ajith Kumar P](https://github.com/Ajithkumar7925)
