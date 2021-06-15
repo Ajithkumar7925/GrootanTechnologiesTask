@@ -4,9 +4,9 @@ I was given with a Task to Create a Mock API and that should return list of user
 
 ## Installation
 
-1.[JSON-Server] (https://github.com/typicode/json-server)is a Node Module that you can use to create demo rest json webservice in less than a minute.
-2.[Node.js] (https://nodejs.org/)
-3.[Beeceptor] (https://beeceptor.com/) is an HTTP proxy, made for the rest APIs. It intercepts HTTP requests for you to mock in real-time.
+1.[JSON-Server](https://github.com/typicode/json-server) is a Node Module that you can use to create demo rest json webservice in less than a minute.
+2.[Node.js](https://nodejs.org/)
+3.[Beeceptor](https://beeceptor.com/) is an HTTP proxy, made for the rest APIs. It intercepts HTTP requests for you to mock in real-time.
 
 
 To install JSON using Command Prompt
