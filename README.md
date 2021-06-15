@@ -1,6 +1,6 @@
 # GrootanTechnologies-Coding Task
 
-I was given with a Task to Create a Mock API and that should return list of users._
+Task is to reate a mock API and that should return list of users._
 
 ## Installation
 
