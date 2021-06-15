@@ -1,12 +1,12 @@
-# GrootanTechnologiesTask
+# GrootanTechnologies-Coding Task
 
 I was given with a Task to Create a Mock API and that should return list of users._
 
 ## Installation
 
--[JSON-Server](https://github.com/typicode/json-server) is a Node Module that you can use to create demo rest json webservice in less than a minute.
--[Node.js](https://nodejs.org/)
--[Beeceptor](https://beeceptor.com/) is an HTTP proxy, made for the rest APIs. It intercepts HTTP requests for you to mock in real-time.
+- [JSON-Server](https://github.com/typicode/json-server) is a Node Module that you can use to create demo rest json webservice in less than a minute.
+- [Node.js](https://nodejs.org/)
+- [Beeceptor](https://beeceptor.com/) is an HTTP proxy, made for the rest APIs. It intercepts HTTP requests for you to mock in real-time.
 
 
 To install JSON using Command Prompt
