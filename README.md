@@ -33,7 +33,10 @@ To Run JSON
 
 json-server --watch db.json
 
-```  
+```
+
+## Additional Requirement
+- [Beeceptor](https://beeceptor.com/)
 
 ## Contributing
 
@@ -50,15 +53,18 @@ Start your JSON-Server using command
 Write your data that you want to display in UI in the appropriate API format and check the data in localhost:3000
 
 ###### Step 5:
-Create a UI for dummy login and registration and for fetching API data's using JavaScript.
+Copy the data's in .json file and paste in beeceptor body portion and get your API url
 
 ###### Step 6:
-Display the users data and give two buttons for displaying previous and next users data. 
+Create a UI for dummy login and registration and for fetching API data's using JavaScript.
 
 ###### Step 7:
-while clicking on a particular record, it should be able to see more details of that user. 
+Display the users data and give two buttons for displaying previous and next users data. 
 
 ###### Step 8:
+while clicking on a particular record, it should be able to see more details of that user. 
+
+###### Step 9:
 Deploy the created website in any hosting service 
 
 ## Website Link 
